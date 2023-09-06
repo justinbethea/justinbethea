@@ -1,4 +1,9 @@
-### Hi there 👋
+ ### Hi there 👋
+<html><body><h3>Content for this readme is in the works,</h3>
+<p>In the mean time check out my site @</p><a href="https://justinbethea.com"> JUSTINBETHEA.COM </a><br>
+<p>Thanks</p>
+</body></html>
+   
 
 <!--
 **justinbethea/justinbethea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
